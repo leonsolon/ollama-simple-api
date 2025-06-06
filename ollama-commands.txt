@@ -1,0 +1,5 @@
+ollama run llama3.1:8b
+ollama run llava:7b
+ollama run deepseek-r1:7b
+
+https://gamma.app/docs/Introducao-ao-Ollama-23h0on0kne6c7f1
